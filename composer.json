@@ -1,0 +1,34 @@
+{
+
+    "name": "oat-sa/extension-tao-texthelp",
+    "description" : "TAO Premium feature: TextHelp",
+    "type" : "tao-extension",
+    "authors" : [
+        {
+        "name": "Open Assessment Technologies SA"
+        }
+    ],
+    "keywords" : [
+        "tao",
+        "computer-based-assessment"
+    ],
+    "homepage" : "http://www.taotesting.com",
+    "license" : [
+        "Proprietary"
+    ],
+    "extra" : {
+        "tao-extension-name" : "taoTextHelp"
+    },
+    "minimum-stability" : "dev",
+    "require": {
+        "oat-sa/oatbox-extension-installer": "~1.1||dev-master",
+        "oat-sa/generis" : ">=14.0.0",
+        "oat-sa/extension-tao-test" : ">=15.0.0",
+        "oat-sa/extension-tao-testqti" : ">=41.0.0"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "oat\\taoTextHelp\\" : ""
+        }
+    }
+}

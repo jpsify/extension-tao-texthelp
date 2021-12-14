@@ -1,0 +1,511 @@
+{
+    "ar-WW": {
+        "name": "Arabic",
+        "language": "ARABIC",
+        "code": "ar",
+        "locale": "WW",
+        "voices": {
+            "male": [
+                "Tarik"
+            ]
+        }
+    },
+    "eu-ES": {
+        "name": "Basque",
+        "language": "SPANISH",
+        "code": "eu",
+        "locale": "ES",
+        "voices": {
+            "female": [
+                "Miren"
+            ]
+        }
+    },
+    "ca-ES": {
+        "name": "Catalan",
+        "language": "SPANISH",
+        "code": "ca",
+        "locale": "ES",
+        "voices": {
+            "female": [
+                "Montserrat"
+            ]
+        }
+    },
+    "zh-HK": {
+        "name": "Chinese (Cantonese - Hong Kong)",
+        "language": "CHINESE",
+        "code": "zh",
+        "locale": "HK",
+        "voices": {
+            "female": [
+                "Sin-Ji"
+            ]
+        }
+    },
+    "zh-CN": {
+        "name": "Chinese (Mandarin - Simplified)",
+        "language": "MANDARIN",
+        "code": "zh",
+        "locale": "CN",
+        "voices": {
+            "female": [
+                "Tian-Tian"
+            ]
+        }
+    },
+    "zh-TW": {
+        "name": "Chinese (Mandarin - Traditional - Tiawanese)",
+        "language": "MANDARIN",
+        "code": "zh",
+        "locale": "TW",
+        "voices": {
+            "female": [
+                "Mei-Jia"
+            ]
+        }
+    },
+    "cs-CZ": {
+        "name": "Czech",
+        "language": "CZECH",
+        "code": "cs",
+        "locale": "CZ",
+        "voices": {
+            "female": [
+                "Zuzana"
+            ]
+        }
+    },
+    "nl-NL": {
+        "name": "Dutch",
+        "language": "DUTCH",
+        "code": "nl",
+        "locale": "NL",
+        "voices": {
+            "male": [
+                "Xander"
+            ],
+            "female": [
+                "Claire"
+            ]
+        }
+    },
+    "nl-BE": {
+        "name": "Dutch (Belgian and Flemish)",
+        "language": "DUTCH",
+        "code": "nl",
+        "locale": "BE",
+        "voices": {
+            "female": [
+                "Ellen"
+            ]
+        }
+    },
+    "en-AU": {
+        "name": "English (Australian)",
+        "language": "AUSTRALIAN",
+        "code": "en",
+        "locale": "AU",
+        "voices": {
+            "male": [
+                "Lee"
+            ],
+            "female": [
+                "Karen"
+            ]
+        }
+    },
+    "en-IN": {
+        "name": "English (India)",
+        "language": "ENGLISH",
+        "code": "en",
+        "locale": "IN",
+        "voices": {
+            "female": [
+                "Veena"
+            ]
+        }
+    },
+    "en-IE": {
+        "name": "English (Irish)",
+        "language": "ENGLISH",
+        "code": "en",
+        "locale": "IE",
+        "voices": {
+            "female": [
+                "Moira"
+            ]
+        }
+    },
+    "en-SC": {
+        "name": "English (Scottish)",
+        "language": "ENGLISH",
+        "code": "en",
+        "locale": "SC",
+        "voices": {
+            "female": [
+                "Fiona"
+            ]
+        }
+    },
+    "en-ZA": {
+        "name": "English (South African)",
+        "language": "ENGLISH",
+        "code": "en",
+        "locale": "ZA",
+        "voices": {
+            "female": [
+                "Tessa"
+            ]
+        }
+    },
+    "en-UK": {
+        "name": "English (UK)",
+        "language": "ENGLISH_UK",
+        "code": "en",
+        "locale": "UK",
+        "voices": {
+            "male": [
+                "Daniel"
+            ],
+            "female": [
+                "Serena"
+            ]
+        }
+    },
+    "en-US": {
+        "name": "English (US)",
+        "language": "ENGLISH_US",
+        "code": "en",
+        "locale": "US",
+        "voices": {
+            "male": [
+                "Tom"
+            ],
+            "female": [
+                "Ava",
+                "Allison",
+                "Samantha"
+            ]
+        }
+    },
+    "fi-FI": {
+        "name": "Finnish",
+        "language": "FINNISH",
+        "code": "fi",
+        "locale": "FI",
+        "voices": {
+            "female": [
+                "Satu"
+            ]
+        }
+    },
+    "fr-FR": {
+        "name": "French",
+        "language": "FRENCH",
+        "code": "fr",
+        "locale": "FR",
+        "voices": {
+            "male": [
+                "Thomas"
+            ],
+            "female": [
+                "Audrey"
+            ]
+        }
+    },
+    "fr-CA": {
+        "name": "French (Canadian)",
+        "language": "FRENCH_CA",
+        "code": "fr",
+        "locale": "CA",
+        "voices": {
+            "female": [
+                "Amelie"
+            ]
+        }
+    },
+    "de-DE": {
+        "name": "German",
+        "language": "GERMAN",
+        "code": "de",
+        "locale": "DE",
+        "voices": {
+            "male": [
+                "Yannick"
+            ],
+            "female": [
+                "Anna",
+                "Petra"
+            ]
+        }
+    },
+    "el-GR": {
+        "name": "Greek",
+        "language": "GREEK",
+        "code": "el",
+        "locale": "GR",
+        "voices": {
+            "male": [
+                "Nikos"
+            ],
+            "female": [
+                "Melina"
+            ]
+        }
+    },
+    "hi-IN": {
+        "name": "Hindi",
+        "language": "HINDI",
+        "code": "hi",
+        "locale": "IN",
+        "voices": {
+            "female": [
+                "Lekha"
+            ]
+        }
+    },
+    "hu-HU": {
+        "name": "Hungarian",
+        "language": "HUNGARIAN",
+        "code": "hu",
+        "locale": "HU",
+        "voices": {
+            "female": [
+                "Mariska"
+            ]
+        }
+    },
+    "id-ID": {
+        "name": "Indonesian (Bahasa)",
+        "language": "INDONESIAN",
+        "code": "id",
+        "locale": "ID",
+        "voices": {
+            "female": [
+                "Damayanti"
+            ]
+        }
+    },
+    "it-IT": {
+        "name": "Italian",
+        "language": "ITALIAN",
+        "code": "it",
+        "locale": "IT",
+        "voices": {
+            "male": [
+                "Luca"
+            ],
+            "female": [
+                "Alice",
+                "Federica",
+                "Paola"
+            ]
+        }
+    },
+    "jp-JP": {
+        "name": "Japanese",
+        "language": "JAPANESE",
+        "code": "jp",
+        "locale": "JP",
+        "voices": {
+            "male": [
+                "Otoya"
+            ],
+            "female": [
+                "Kyoko"
+            ]
+        }
+    },
+    "ko-KR": {
+        "name": "Korean",
+        "language": "KOREAN",
+        "code": "ko",
+        "locale": "KR",
+        "voices": {
+            "female": [
+                "Sora"
+            ]
+        }
+    },
+    "no-NO": {
+        "name": "Norwegian",
+        "language": "NORWEGIAN",
+        "code": "no",
+        "locale": "NO",
+        "voices": {
+            "male": [
+                "Henrik"
+            ],
+            "female": [
+                "Nora"
+            ]
+        }
+    },
+    "pl-PL": {
+        "name": "Polish",
+        "language": "POLISH",
+        "code": "pl",
+        "locale": "PL",
+        "voices": {
+            "female": [
+                "Ewa",
+                "Zosia"
+            ]
+        }
+    },
+    "pt-PT": {
+        "name": "Portuguese",
+        "language": "PORTUGUESE",
+        "code": "pt",
+        "locale": "PT",
+        "voices": {
+            "female": [
+                "Catarina",
+                "Joana"
+            ]
+        }
+    },
+    "pt-BR": {
+        "name": "Portuguese (Brazilian)",
+        "language": "PORTUGUESE",
+        "code": "pt",
+        "locale": "BR",
+        "voices": {
+            "male": [
+                "Felipe"
+            ],
+            "female": [
+                "Luciana"
+            ]
+        }
+    },
+    "ro-RO": {
+        "name": "Romanian",
+        "language": "ROMANIAN",
+        "code": "ro",
+        "locale": "RO",
+        "voices": {
+            "female": [
+                "Ioana"
+            ]
+        }
+    },
+    "ru-RU": {
+        "name": "Russian",
+        "language": "RUSSIAN",
+        "code": "ru",
+        "locale": "RU",
+        "voices": {
+            "male": [
+                "Yuri"
+            ],
+            "female": [
+                "Milena"
+            ]
+        }
+    },
+    "sk-SK": {
+        "name": "Slovakian",
+        "language": "SLOVAKIAN",
+        "code": "sk",
+        "locale": "SK",
+        "voices": {
+            "female": [
+                "Laura"
+            ]
+        }
+    },
+    "es-ES": {
+        "name": "Spanish",
+        "language": "SPANISH",
+        "code": "es",
+        "locale": "ES",
+        "voices": {
+            "male": [
+                "Jorge"
+            ],
+            "female": [
+                "Monica"
+            ]
+        }
+    },
+    "es-CO": {
+        "name": "Spanish (Columbian)",
+        "language": "SPANISH",
+        "code": "es",
+        "locale": "CO",
+        "voices": {
+            "male": [
+                "Carlos"
+            ],
+            "female": [
+                "Soledad"
+            ]
+        }
+    },
+    "gl-ES": {
+        "name": "Galician (Spain)",
+        "language": "SPANISH",
+        "code": "gl",
+        "locale": "ES",
+        "voices": {
+            "female": [
+                "Carmela"
+            ]
+        }
+    },
+    "es-MX": {
+        "name": "Spanish (Mexican)",
+        "language": "SPANISH",
+        "code": "es",
+        "locale": "MX",
+        "voices": {
+            "male": [
+                "Juan"
+            ],
+            "female": [
+                "Paulina"
+            ]
+        }
+    },
+    "sv-SE": {
+        "name": "Swedish",
+        "language": "SWEDISH",
+        "code": "sv",
+        "locale": "SE",
+        "voices": {
+            "male": [
+                "Oskar"
+            ],
+            "female": [
+                "Alva"
+            ]
+        }
+    },
+    "th-TH": {
+        "name": "Thai",
+        "language": "THAI",
+        "code": "th",
+        "locale": "TH",
+        "voices": {
+            "female": [
+                "Kanya"
+            ]
+        }
+    },
+    "tr-TR": {
+        "name": "Turkish",
+        "language": "TURKISH",
+        "code": "tr",
+        "locale": "TR",
+        "voices": {
+            "male": [
+                "Cem"
+            ],
+            "female": [
+                "Yelda"
+            ]
+        }
+    }
+}
